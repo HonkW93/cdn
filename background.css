@@ -3,11 +3,11 @@
 
 /*鼠标样式*/
 body {
-    cursor: url(https://cdn.jsdelivr.net/gh/WangHeng93/cdn/cur116.cur),default;
+    cursor: url(https://cdn.jsdelivr.net/gh/HonkW93/cdn/cur116.cur),default;
 }
 a,
 img {
-    cursor: url(https://cdn.jsdelivr.net/gh/WangHeng93/cdn/cur1049.cur),default;
+    cursor: url(https://cdn.jsdelivr.net/gh/HonkW93/cdn/cur1049.cur),default;
 }
 
 /* 滚动条 */
@@ -54,14 +54,14 @@ div {
 /*字体*/
 @font-face {
     font-family: 'sleek';
-    src: url('https://cdn.jsdelivr.net/gh/WangHeng93/cdn/sleek.woff2');
+    src: url('https://cdn.jsdelivr.net/gh/HonkW93/cdn/sleek.woff2');
 }
 
 /*阅读模式*/
 .read-mode{
     font-size:17px;
     font-family: 'sleek';
-    src: url('https://cdn.jsdelivr.net/gh/WangHeng93/cdn/sleek.woff2');
+    src: url('https://cdn.jsdelivr.net/gh/HonkW93/cdn/sleek.woff2');
 }[data-theme=light] .read-mode {
 	background: #fdf6e3
 }[data-theme=dark] .read-mode {
